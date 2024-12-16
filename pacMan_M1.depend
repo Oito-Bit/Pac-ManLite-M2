@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1730850196 source:c:\users\8091854\desktop\pacman_m1\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
+1732063392 source:c:\users\8091854\downloads\pacman_m1\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
+1731783012 source:c:\users\morgs\onedrive\Área de trabalho\adriano\pacman_m1\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
+1733207256 source:c:\users\carlos adriano\downloads\pacman_m1\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<queue>
+
+1733268163 source:c:\users\8091854\downloads\pacman_m2\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<queue>
+
